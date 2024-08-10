@@ -9,7 +9,7 @@ build/
 *.log
 
 # Poetry
-poetry.lock
+# poetry.lock
 
 # Django
 *.log
@@ -33,7 +33,7 @@ docker-compose.override.yml
 .env
 .vscode/
 .dockerignore
-*Dockerfile
+#Dockerfile
 # Ignore Docker volumes
 volumes/
 postgres_data/
